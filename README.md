@@ -1,6 +1,6 @@
 
 <div align=center> 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SONINCHEON&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=royalblue&height=200&section=header&text=SONINCHEON&fontSize=90" />
 <br>
  <div>👋기술스택👋</div>
 <br>
