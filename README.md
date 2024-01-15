@@ -13,6 +13,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sonincheon&theme=tokyonight&show_icons=true" width="42%" />
 </a>
 
-<img src="https://raw.githubusercontent.com/sonincheon/github-stats-transparent/output/generated/languages.svg" width="49.2%" />
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonincheon&theme=nord_dark)
