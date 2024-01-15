@@ -5,21 +5,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SONINCHEON&fontSize=90" />
 <br/>
 <br/>
-
-
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonincheon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
-</a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=sonincheon&theme=tokyonight&show_icons=true" width="42%" />
-</a>
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonincheon&theme=nord_dark)
-
-
-<a href="https://opgc.me/#/users/sonincheon" target="_blank"><img src="https://api.opgc.me/githubs/users/sonincheon/tag/?theme=basic" /></a>
-
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -64,3 +49,16 @@
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
   <br>
 </div>
+
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonincheon&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=sonincheon&theme=tokyonight&show_icons=true" width="42%" />
+</a>
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonincheon&theme=nord_dark)
+
+
