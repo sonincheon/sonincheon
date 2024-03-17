@@ -1,6 +1,6 @@
 
 <div align=center> 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=SON%20INCHEON&fontAlignY=32&fontAlign=64&textBg=false&animation=blink&reversal=true&descAlignY=70)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=REACT와%Spring으로%개발을%배운%신입!&fontAlignY=32&fontAlign=64&textBg=false&animation=blink&reversal=true&descAlignY=70)" />
 <br>
  <div>👋기술스택👋</div>
 <br>
