@@ -1,6 +1,6 @@
 
 <div align=center> 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=REACT와%Spring을%쓰는%신입!&fontAlignY=32&fontAlign=64&textBg=false&animation=blink&reversal=true&descAlignY=70)" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=신입 개발자 손인천입니다!&fontAlignY=32&fontAlign=64&textBg=false&animation=blink&reversal=true&descAlignY=70)" />
 <br>
  <div>👋기술스택👋</div>
 <br>
