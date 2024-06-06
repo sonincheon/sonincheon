@@ -2,7 +2,7 @@
 <div align=center> 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=SON+IN+CHEON&fontAlignY=32&fontAlign=64&textBg=false&animation=blink&reversal=true&descAlignY=70)" />
 <br>
- <div>👋기술스택👋</div>
+ <div>👋기술&경험 스택👋</div>
 <br>
     <div style="margin: 0 auto; text-align: center;" align= "center"> 
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
