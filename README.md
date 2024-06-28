@@ -27,10 +27,10 @@
   <br/>
   <br/>
   <div style="font-weight: bold; font-size: 18px;">🐱‍🏍Server</div>
-  <img src="https://img.shields.io/badge/Notion-FF6347?style=for-the-badge&logo=Notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Github-00BFFF?style=for-the-badge&logo=Github&logoColor=white">
-  <img src="https://img.shields.io/badge/Firebase-32CD32?style=for-the-badge&logo=Firebase&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-9370DB?style=for-the-badge&logo=Figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white">
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
+  <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
   <br/>
   <br/>
   <div style="font-weight: bold; font-size: 18px;">🐱‍🏍Collaboration</div>
